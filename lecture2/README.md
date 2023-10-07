@@ -94,4 +94,4 @@ To build a picture in HSI we want to make eaach layer (H, S and I - Hue, Saturat
 
 ## Make a Python program which loads and converts a picture to HSI
 See `converter.py`
-![BRG -> HSV convertion](lecture2/ext/converter.png)
+![BRG -> HSV convertion](https://github.com/nikobk/aau-image-processing/tree/main/lecture2/ext/converter.png?raw=true)
